@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Prahash 👋
 
-<!--
-**prahashkhanal/prahashkhanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student | 💻 Tech Enthusiast | 🔐 Cybersecurity Learner | 🤖 AI & ML Explorer
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate and motivated CSE student
+
+Eager to apply classroom knowledge to real-world projects
+
+Interested in contributing to dynamic and collaborative teams
+
+
+## 🔭 What I’m Working On
+
+🤖 Machine Learning algorithms and practical applications
+
+🔐 Cybersecurity fundamentals and safe practices
+
+💻 Projects in C, C++, and Python
+
+📊 Data Science concepts with Python, SQL, and visualization tools
+
+🏗️ Projects combining AI, cybersecurity, and software development
+
